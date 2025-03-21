@@ -1,0 +1,1683 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NVR5198NLT1G
+D Low RDS(ON); Small Footprint Industry Standard Surface Mount SOT23 Package; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVR5198NL-D.PDF
+$ENDCMP
+#
+$CMP NCV8406BDTRKG
+D Short Circuit Protection; Thermal Shutdown with Automatic Restart; Over Voltage Protection; Integrated Clamp for Inductive Switching; ESD Protection; dV/dt Robustness; Analog Drive Capability (Logic Level Input); AEC-Q101 Qualified; These Devices are Faster than the Rest of the NCV Devices; NCV Prefix for Automotive and Other Applications Requiring Site and Change Control
+K
+F https://www.onsemi.com/pub/Collateral/NCV8406-D.PDF
+$ENDCMP
+#
+$CMP NVMFS6H864NLT1G
+D Small Footprint (5x6mm); Low RDS (on); Low QG and Capacitance; NVMFS6H864NLWF -Wettable Flank Option; AEC-Q101 Qualified and PPAP Capable; These Devices are PbFree and are RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMFS6H864NL-D.PDF
+$ENDCMP
+#
+$CMP FDWS86368-F085
+D Low RDS(on); Low QG and Capacitance; Small Footprint (5x6mm); RoHS Compliant; AEC Q101 Qualified and PPAP Capable; Wettable Flanks for Automatic Optical Inspection (AOI)
+K
+F https://www.onsemi.com/pub/Collateral/FDWS86368_F085-D.PDF
+$ENDCMP
+#
+$CMP NVR5198NLT3G
+D Low RDS(ON); Small Footprint Industry Standard Surface Mount SOT23 Package; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVR5198NL-D.PDF
+$ENDCMP
+#
+$CMP NVMFS5C468NT1G
+D Small Footprint (5 x 6 mm); Low RDS(on); Low Qg and Capacitance; Wettable Flank Option; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMFS5C468N-D.PDF
+$ENDCMP
+#
+$CMP NVTFS010N10MCLTAG
+D Low RDS (ON); Low QGand Capacitance; AECQ101 Qualified and PPAP Capable; RoHS Compliant; Small Footprint (3x3 mm)
+K
+F https://www.onsemi.com/pub/Collateral/NVTFS010N10MCL-D.PDF
+$ENDCMP
+#
+$CMP NVMFS3D6N10MCLT1G
+D Small Footprint (5x6 mm); Low RDS (ON); Low QG and Capacitance; Wettable Flank Option available; RoHS Compliant; AECQ101 Qualified and PPAP Capable
+K
+F https://www.onsemi.com/pub/Collateral/NVMFS3D6N10MCL-D.PDF
+$ENDCMP
+#
+$CMP NVMFS5C456NT1G
+D Small Footprint (5 x 6 mm); Low RDS(on); Low Qg and Capacitance; Wettable Flank Option; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMFS5C456N-D.PDF
+$ENDCMP
+#
+$CMP NVTFS6H854NLTAG
+D Small Footprint (3.3 x 3.3 mm); Low RRD (ON); Low QG and Capacitance; Wettable Flank Option; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVTFS6H854NL-D.PDF
+$ENDCMP
+#
+$CMP NVMFS6H836NLT1G
+D Small Footprint (5x6 mm); Low RDS(on); Low QG and Capacitance; NVMFS6H836NLWFTAG  Wettable Flank Option; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMFS6H836NL-D.PDF
+$ENDCMP
+#
+$CMP NVMFS5C628NWFT1G
+D Low RDS(on); Low QG and Gate capacitance; Industry standard 5x6mm Small Footprint; NVMFS5C628NWF  Wettable Flank Option; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMFS5C628N-D.PDF
+$ENDCMP
+#
+$CMP C0402C508B5GACAUTO
+D SMD Auto C0G, Ceramic, 0.5 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 1.06 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C109B5GACAUTO
+D SMD Auto C0G, Ceramic, 1 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C229B5GACAUTO
+D SMD Auto C0G, Ceramic, 2.2 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C339B5GACAUTO
+D SMD Auto C0G, Ceramic, 3.3 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0402C479B5GACAUTO
+D SMD Auto C0G, Ceramic, 4.7 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 1.06 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0402C569B5GACAUTO
+D SMD Auto C0G, Ceramic, 5.6 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 1.06 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C689B5GACAUTO
+D SMD Auto C0G, Ceramic, 6.8 pF, +/-0.1 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C759C5GACAUTO
+D SMD Auto C0G, Ceramic, 7.5 pF, +/-0.25 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C829C5GACAUTO
+D SMD Auto C0G, Ceramic, 8.2 pF, +/-0.25 pF, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C100F5GACAUTO
+D SMD Auto C0G, Ceramic, 10 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C220F5GACAUTO
+D SMD Auto C0G, Ceramic, 22 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C330F5GACAUTO
+D SMD Auto C0G, Ceramic, 33 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C470F5GACAUTO
+D SMD Auto C0G, Ceramic, 47 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C560F5GACAUTO
+D SMD Auto C0G, Ceramic, 56 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP SVD5867NLT4G
+D N-Channel 60 V 22A (Tc) 3.3W (Ta), 43W (Tc) Surface Mount DPAK-3
+K
+F https://www.onsemi.com/products/discrete-power-modules/mosfets/low-medium-voltage-mosfets/NVD5867NL
+$ENDCMP
+#
+$CMP NVD5805NT4G-VF01
+D N-Channel 40 V 51A (Tc) 47W (Tc) Surface Mount DPAK
+K
+F https://www.onsemi.com/download/data-sheet/pdf/ntd5805n-d.pdf
+$ENDCMP
+#
+$CMP NVMFS5C456NWFT1G
+D Small Footprint (5 x 6 mm); Low RDS(on); Low Qg and Capacitance; Wettable Flank Option; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMFS5C456N-D.PDF
+$ENDCMP
+#
+$CMP NVMYS011N04CTWG
+D Small Footprint (5x6mm); Low RDS (ON) ; Low QG and Capacitance; LFPAK4 Package, Industry Standard; AECQ101 Qualified and PPAP Capable; These Devices are PbFree and are RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMYS011N04C-D.PDF
+$ENDCMP
+#
+$CMP NVMYS8D0N04CTWG
+D Small Footprint (5x6mm); Low RDS (ON); Low QG and Capacitance; LFPAK4 Package, Industry Standard; AECQ101 Qualified and PPAP Capable; These Devices are PbFree and are RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVMYS8D0N04C-D.PDF
+$ENDCMP
+#
+$CMP C0603C680F5GACAUTO
+D SMD Auto C0G, Ceramic, 68 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C750J5GACAUTO
+D SMD Auto C0G, Ceramic, 75 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0402C101G5GACAUTO
+D SMD Auto C0G, Ceramic, 100 pF, 2%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 1.06 mg, 0402, 1mm, 0.5mm, 0.5mm, 0.3mm, 0.3mm, 10000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C221F5GACAUTO
+D SMD Auto C0G, Ceramic, 220 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C331F5GACAUTO
+D SMD Auto C0G, Ceramic, 330 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C471F5GACAUTO
+D SMD Auto C0G, Ceramic, 470 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C561J5GACAUTO
+D SMD Auto C0G, Ceramic, 560 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C681F5GACAUTO
+D SMD Auto C0G, Ceramic, 680 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C751J5GACAUTO
+D SMD Auto C0G, Ceramic, 750 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C821F5GACAUTO
+D SMD Auto C0G, Ceramic, 820 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C102F5GACAUTO
+D SMD Auto C0G, Ceramic, 1000 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C222F5GACAUTO
+D SMD Auto C0G, Ceramic, 2200 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C332F5GACAUTO
+D SMD Auto C0G, Ceramic, 3300 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C472F5GACAUTO
+D SMD Auto C0G, Ceramic, 4700 pF, 1%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C562J5GACAUTO
+D SMD Auto C0G, Ceramic, 5600 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C682J5GACAUTO
+D SMD Auto C0G, Ceramic, 6800 pF, 5%, 50 VDC, 125 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 3.7 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0805C822J1GACAUTO
+D SMD Auto C0G, Ceramic, 8200 pF, 5%, 100 VDC, 250 VDC, 125C, -55C, C0G, SMD, MLCC, Ultra-Stable, Low Loss, Automotive Grade, 0.1 % , 100 GOhms, 11 mg, 0805, 2mm, 1.25mm, 0.78mm, 0.75mm, 0.5mm, 4000, 78  Weeks, 120
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C103J5RECAUTO
+D ESD SMD Auto X7R, Ceramic, 0.01 uF, 5%, 50 VDC, 125 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 2.5 % , 100 GOhms, 4.8 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 80
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP C0603C223J5RECAUTO
+D ESD SMD Auto X7R, Ceramic, 0.022 uF, 5%, 50 VDC, 125 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 2.5 % , 45.4545 GOhms, 4.8 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 80
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP EXV105M050A9BAA
+D EXV, Aluminum, Aluminum Electrolytic, 1 uF, 20%, 50 VDC, -55/+105C, 105C, -55C, 105C, 3,000 Hrs, 12 % , 5 Ohms, 0.042, 3 uA, 2, 3, 4mm, 5.4mm, 2000
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EXV225M050A9BAA
+D Cap Aluminum Lytic 2.2uF 50V 20% (4 X 5.4mm) SMD 60mA 3000h 105C T/R
+K
+F https://search.kemet.com/component-documentation/download/specsheet/EXV225M050A9BAA
+$ENDCMP
+#
+$CMP MLG1005S1N0BTD25
+D Unshielded Multilayer Inductor 1A x 0402 (1005 Metric)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mlg1005s_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P2N2BTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P3N3BTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P4N7BTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P5N6BTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P6N8GTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P7N5GTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P8N2GTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MHQ1005P10NGTD25
+D Inductors for high frequency circuits, Multilayer ceramic
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mhq1005p_en.pdf
+$ENDCMP
+#
+$CMP MLG1005S22NHTD25
+D Unshielded Multilayer Inductor 1A x 0402 (1005 Metric)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mlg1005s_en.pdf
+$ENDCMP
+#
+$CMP MLG1005S33NHTD25
+D Unshielded Multilayer Inductor 1A x 0402 (1005 Metric)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mlg1005s_en.pdf
+$ENDCMP
+#
+$CMP MLF2012D47NMTD25
+D SMD / SMT Inductors (Coils), L=0.047?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLG1005S56NHTD25
+D Unshielded Multilayer Inductor 1A x 0402 (1005 Metric)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mlg1005s_en.pdf
+$ENDCMP
+#
+$CMP MLF2012D68NMTD25
+D SMD / SMT Inductors (Coils), L=0.068?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLG1005S75NHTD25
+D Unshielded Multilayer Inductor 1A x 0402 (1005 Metric)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_high-frequency_mlg1005s_en.pdf
+$ENDCMP
+#
+$CMP MLF2012D82NMTD25
+D SMD / SMT Inductors (Coils), L=0.082?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLF2012DR10JTD25
+D SMD / SMT Inductors (Coils), L=0.1?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLF2012DR22JTD25
+D SMD / SMT Inductors (Coils), L=0.22?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLF2012DR33JTD25
+D SMD / SMT Inductors (Coils), L=0.33?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLF2012DR47JTD25
+D SMD / SMT Inductors (Coils), L=0.47?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLF2012DR68JTD25
+D SMD / SMT Inductors (Coils), L=0.68?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP MLF2012DR82JTD25
+D SMD / SMT Inductors (Coils), L=0.82?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP KLZ2012AHR1R0WTD25
+D Inductors for decoupling circuits, Soft termination, KLZ-HR series (for automotive)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM4030T-1R0M-HZ
+D SMD / SMT Inductors (Coils), L=1?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm4030-hz_en.pdf
+$ENDCMP
+#
+$CMP KLZ2012AHR2R2WTD25
+D Inductors for decoupling circuits, Soft termination, KLZ-HR series (for automotive)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM6530T-2R2M-HZ
+D Fixed Inductors 2.2uH 20% 17.3mOhms Pwr Indctr AEC-Q200
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm6530-hz_en.pdf
+$ENDCMP
+#
+$CMP MLJ1608WGCR56NTD25
+D RF Inductors - SMD 1608 0.56uH 30% 0.45ohm 500mA
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_mlj1608-g_en.pdf
+$ENDCMP
+#
+$CMP KLZ2012MHR3R3HTD25
+D SMD / SMT Inductors (Coils), L=3.3?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM7054VT-3R3M-D
+D Inductors for power circuits, Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm7054vt-d_en.pdf
+$ENDCMP
+#
+$CMP KLZ2012MHR4R7HTD25
+D Inductors for decoupling circuits, Soft termination, KLZ-HR series (for automotive)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM6550T-4R7M-HZ
+D Inductors for power circuits Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm6550-hz_en.pdf
+$ENDCMP
+#
+$CMP MLF1608E5R6JTD25
+D SMD / SMT Inductors (Coils), L=5.6?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf1608_en.pdf
+$ENDCMP
+#
+$CMP SLF12575T-5R6N6R3-H
+D SMD / SMT Inductors (Coils), L=5.6?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_slf12575-h_en.pdf
+$ENDCMP
+#
+$CMP MLF1608E6R8JTD25
+D SMD / SMT Inductors (Coils), L=6.8?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf1608_en.pdf
+$ENDCMP
+#
+$CMP SPM7054VT-6R8M-D
+D Inductor Power Shielded Wirewound 6.8uH 20% 100KHz Metal 6.8A 0.02629Ohm DCR Automotive T/R
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm7054vt-d_en.pdf
+$ENDCMP
+#
+$CMP MLF1608E8R2JTD25
+D SMD / SMT Inductors (Coils), L=8.2?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf1608_en.pdf
+$ENDCMP
+#
+$CMP B82442T1822K000
+D SMD / SMT Inductors (Coils), L=8.2uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP KLZ2012MHR100HTD25
+D Inductors for decoupling circuits, Soft termination, KLZ-HR series (for automotive)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM12565VT-100M-D
+D Inductors for power circuits, Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm12565vt-d_en.pdf
+$ENDCMP
+#
+$CMP KLZ2012PHR220WTD25
+D SMD / SMT Inductors (Coils), L=22?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM12565VT-220M-D
+D Inductors for power circuits, Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm12565vt-d_en.pdf
+$ENDCMP
+#
+$CMP MLF2012C330KTD25
+D SMD / SMT Inductors (Coils), L=33?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP SPM10065VT-330M-D
+D Inductors for power circuits, Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm10065vt-d_en.pdf
+$ENDCMP
+#
+$CMP KLZ2012MHR470WTD25
+D Inductors for decoupling circuits, Soft termination, KLZ-HR series (for automotive)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM10065VT-470M-D
+D Inductors for power circuits, Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm10065vt-d_en.pdf
+$ENDCMP
+#
+$CMP MLF2012K560KTD25
+D SMD / SMT Inductors (Coils), L=56?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP B82442T1563K000
+D SMD / SMT Inductors (Coils), L=56uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP MLF2012C680KTD25
+D SMD / SMT Inductors (Coils), L=68?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP SPM10065VT-680M-D
+D Inductors for power circuits, Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm10065vt-d_en.pdf
+$ENDCMP
+#
+$CMP MLF2012C820KTD25
+D SMD / SMT Inductors (Coils), L=82?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_standard_mlf2012_en.pdf
+$ENDCMP
+#
+$CMP B82442T1823K000
+D SMD / SMT Inductors (Coils), L=82uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP KLZ2012NHR101LTD25
+D Inductors for decoupling circuits, Soft termination, KLZ-HR series (for automotive)
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_decoupling_klz2012-hr_en.pdf
+$ENDCMP
+#
+$CMP SPM7054VT-101M-D
+D Inductors for power circuits, Wound metal, Automotive
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm7054vt-d_en.pdf
+$ENDCMP
+#
+$CMP CLF7045NIT-221M-D
+D TDK CLF-NI-D Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 220 uH +/-20% Wire-Wound
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_clf7045ni-d_en.pdf
+$ENDCMP
+#
+$CMP CLF7045NIT-331M-D
+D SMD / SMT Inductors (Coils), L=330?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_clf7045ni-d_en.pdf
+$ENDCMP
+#
+$CMP CLF7045NIT-471M-D
+D SMD / SMT Inductors (Coils), L=470?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_clf7045ni-d_en.pdf
+$ENDCMP
+#
+$CMP B82442T1564K000
+D SMD / SMT Inductors (Coils), L=560uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82464G4684M000
+D Epcos B82462-G4 Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 680 uH +/-20% 420mA Idc
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82464g4.pdf
+$ENDCMP
+#
+$CMP B82442T1824K000
+D SMD / SMT Inductors (Coils), L=820uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82464G4105M000
+D Epcos B82462-G4 Series Shielded Wire-wound SMD Inductor with a Ferrite Core, 1 mH +/-20% 340mA Idc
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82464g4.pdf
+$ENDCMP
+#
+$CMP B82442T1225K000
+D SMD / SMT Inductors (Coils), L=2200uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82442T1335K000
+D SMD / SMT Inductors (Coils), L=3300uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82442T1475K000
+D SMD / SMT Inductors (Coils), L=4700?H, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82442T1565K000
+D SMD / SMT Inductors (Coils), L=5600uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82442T1685K000
+D SMD / SMT Inductors (Coils), L=6800uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82442T1825K000
+D SMD / SMT Inductors (Coils), L=8200uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP B82442T1106K000
+D SMD / SMT Inductors (Coils), L=10000uH, 5.6mm x 5.0mm [EIA 2220]
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/data_sheet/30/db/ind_2008/b82442t.pdf
+$ENDCMP
+#
+$CMP C0805C752J2GACAUTO
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 200V 7500pF C0G 0805 5% AEC-Q200
+K
+F https://content.kemet.com/datasheets/KEM_C1022_C0G_AUTO_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C333J5RECAUTO
+D 	 AEC-Q200 automotive qualified 	 ESD qualified per HBM - AEC Q200-002  Available in package size EIA 0402, 0603, 0805, 1206  DC Voltage ratings of 16 V, 25 V, 50 V, 63 V, 100 V, 200 V and 250 V  Capacitance range from 1 nF to 2.2 F 	 55C to +125C operating temperature range 	 Lead (Pb)-free, RoHS and REACH compliant  Available capacitance tolerances of +/-5%, +/-10% and +/-20% 	 100% pure matte tin-plated termination finish allowing for excellent solderability
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP C0603C473J5RECAUTO
+D 	 AEC-Q200 automotive qualified 	 ESD qualified per HBM - AEC Q200-002  Available in package size EIA 0402, 0603, 0805, 1206  DC Voltage ratings of 16 V, 25 V, 50 V, 63 V, 100 V, 200 V and 250 V
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP C1206C563G5GACAUTO
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.056uF C0G 1206 2% AEC-Q200
+K
+F https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C683J5RECAUTO
+D AEC-Q200 automotive qualified 	 ESD qualified per HBM - AEC Q200-002  Available in package size EIA 0402, 0603, 0805, 1206  DC Voltage ratings of 16 V, 25 V, 50 V, 63 V, 100 V, 200 V and 250 V  Capacitance range from 1 nF to 2.2 F 	 55C to +125C operating temperature range 	 Lead (Pb)-free, RoHS and REACH compliant  Available capacitance tolerances of +/-5%, +/-10% and +/-20% 	 100% pure matte tin-plated termination finish allowing for excellent solderability  Non-polar devices, minimizing
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP C1210C823J5GACAUTO
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.082uF C0G 1210 5%
+K
+F https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf
+$ENDCMP
+#
+$CMP C0603C104J5RECAUTO
+D ESD SMD Auto X7R, Ceramic, 0.1 uF, 5%, 50 VDC, 125 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 2.5 % , 5 GOhms, 4.8 mg, 0603, 1.6mm, 0.8mm, 0.8mm, 0.7mm, 0.35mm, 4000, 78  Weeks, 80
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP C0805C224J5RECAUTO
+D AEC-Q200 automotive qualified 	 ESD qualified per HBM - AEC Q200-002  Available in package size EIA 0402, 0603, 0805, 1206  DC Voltage ratings of 16 V, 25 V, 50 V, 63 V, 100 V, 200 V and 250 V  Capacitance range from 1 nF to 2.2 F 	 55C to +125C operating temperature range 	 Lead (Pb)-free, RoHS and REACH compliant  Available capacitance tolerances of +/-5%, +/-10% and +/-20% 	 100% pure matte tin-plated termination finish allowing for excellent solderability  Non-polar devices, minimizing
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP C0805C334J5RECAUTO
+D ESD SMD Auto X7R, Ceramic, 0.33 uF, 5%, 50 VDC, 125 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Electro Static Discharge, Automotive Grade, 2.5 % , 1.5152 GOhms, 13 mg, 0805, 2mm, 1.25mm, 0.9mm, 0.75mm, 0.5mm, 4000, 78  Weeks, 80
+K
+F https://content.kemet.com/datasheets/KEM_C1090_X7R_ESD.pdf
+$ENDCMP
+#
+$CMP C0805C684J5RECAUTO
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.68uF X7R 0805 5% AEC-Q200
+K
+F https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C684J5RECAUTO
+$ENDCMP
+#
+$CMP EXV227M050S9PAA
+D Surface Mount Aluminum Electrolytic Capacitors
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP NVB082N65S3F
+D Low RDS (ON); Low QG and Capacitance; AECQ101 Qualified and PPAP Capable; RoHS Compliant
+K
+F https://www.onsemi.com/pub/Collateral/NVB082N65S3F-D.PDF
+$ENDCMP
+#
+$CMP C0805C474J5RECAUTO
+D 0.47 F +/-5% 50V Ceramic Capacitor X7R 0805 (2012 Metric)
+K
+F https://search.kemet.com/component-documentation/download/specsheet/C0805C474J5RECAUTO
+$ENDCMP
+#
+$CMP C0805X105J5RACAUTO
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 1uF 5% X7R 0805 AEC-Q200
+K
+F https://search.kemet.com/component-documentation/download/specsheet/C0805X105J5RACAUTO
+$ENDCMP
+#
+$CMP EXV335M050A9BAA
+D Cap Aluminum Lytic 3.3uF 50V 20% (4 X 5.4mm) SMD 60mA 3000h 105C T/R
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EXV475M050S9DAA
+D The KEMET EXV aluminum electrolytic surface mount capacitors are designed for applications requiring ultra low impedance and a low profile vertical chip
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EDH685M050S9DAA
+D The KEMET EDH aluminum electrolytic surface mount capacitors are designed for high density printed circuit boards.
+K
+F https://content.kemet.com/datasheets/KEM_A4049_EDH.pdf
+$ENDCMP
+#
+$CMP EXV106M050S9GAA
+D Aluminum Electrolytic Capacitors - SMD 50V 10uF 20% AEC-Q200
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EDH108M050S9TAA
+D EDH, Aluminum, Aluminum Electrolytic, 1,000 uF, 20%, 50 VDC, -40/+105C, 105C, -40C, 105C, 2,000 Hrs, 18 % , 0.8, 500 uA, 2, 3, 16mm, 16.5mm, 125
+K
+F https://content.kemet.com/datasheets/KEM_A4049_EDH.pdf
+$ENDCMP
+#
+$CMP LTC2066HS5#TRMPBF
+D Operational Amplifiers - Op Amps Single 2A Zero-Drift Operational Amplifier
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/388e27b14637626e2a3022813c6e3131.pdf
+$ENDCMP
+#
+$CMP MAX4091AUK+T
+D MAXIM INTEGRATED PRODUCTS - MAX4091AUK+T - Operational Amplifier, Rail to Rail I/O, 1 Amplifier, 500 kHz, 0.2 V/s
+K
+F https://pdfserv.maximintegrated.com/en/ds/MAX4091-MAX4094.pdf
+$ENDCMP
+#
+$CMP AD548JRZ
+D Operational Amplifiers - Op Amps LOW POWER BIFET OP AMP IC
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/ANDI/ANDIS18735/ANDIS18735-1.pdf?hkey=52A5661711E402568146F3353EA87419
+$ENDCMP
+#
+$CMP AD8565AKSZ-REEL7
+D 16 V Rail-to-Rail Operational Amplifier
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8565_8566_8567.pdf
+$ENDCMP
+#
+$CMP MAX40075AUT_V+T
+D Operational Amplifiers - Op Amps 10MHz/42MHz Low Noise, Low Bias Op-Amps
+K
+F https://www.analog.com/MAX40088/datasheet?ADICID=SYND_WW_P682800_PF-spglobal
+$ENDCMP
+#
+$CMP AD8031ARZ-REEL
+D Op Amp Single High Speed Amplifier R-R I/O +/-6V/12V 8-Pin SOIC N T/R
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8031_8032.pdf
+$ENDCMP
+#
+$CMP AD648KRZ
+D Analog Devices AD648KRZ, Dual JFET Op Amp, 1MHz CMOS, 8-Pin SOIC
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD648.pdf
+$ENDCMP
+#
+$CMP AD8566ARMZ-REEL
+D ANALOG DEVICES - AD8566ARMZ-REEL - OP-AMP, DUAL, 5MHZ, 6V/US, MSOP-8
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8565_8566_8567.pdf
+$ENDCMP
+#
+$CMP AD8032ARZ-REEL7
+D Analog Devices AD8032ARZ-REEL7, Dual High Speed Op Amp, 80MHz Rail-Rail, 5 V, 8-Pin SOIC
+K
+F 
+$ENDCMP
+#
+$CMP AD8062ARZ-R7
+D OP Amp Dual Volt Fdbk R-R O/P 8V 8-Pin SOIC N T/R
+K
+F https://www.arrow.com/en/products/ad8062arz-r7/analog-devices
+$ENDCMP
+#
+$CMP ADA4891-3ARZ-R7
+D Low Cost CMOS, High Speed,Rail-to-Rail Amplifiers
+K
+F 
+$ENDCMP
+#
+$CMP AD8544WARZ-R7
+D  Single-supply operation: 2.7 V to 5.5 V  Low supply current: 45 A/amplifier  Wide bandwidth: 1 MHz  No phase reversal  Low input currents: 4 pA  Unity gain stable  Rail-to-rail input and output  AEC-Q100 qualified for automotive applications
+K
+F https://www.analog.com/AD8544/datasheet
+$ENDCMP
+#
+$CMP AD8567ARUZ
+D AD8567ARUZ, Quad Operational Amplifier 5MHz R-R 5 to 15V, 14-Pin TSSOP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00085030.pdf
+$ENDCMP
+#
+$CMP MAX40078AUD+
+D Operational Amplifiers - Op Amps Quad Low-noise, low bias current op amp
+K
+F https://ms.componentsearchengine.com/Datasheets/1/MAX40078AUD+.pdf
+$ENDCMP
+#
+$CMP AD8040ARUZ
+D Op Amp Quad High Speed Amplifier R-R I/O +/-6V/12V Automotive 14-Pin TSSOP Tube
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8029_8030_8040.pdf
+$ENDCMP
+#
+$CMP ADA4891-4ARZ
+D Op Amp Quad CMOS 220MHz 2.7-5.5V SOIC14 Analog Devices ADA4891-4ARZ Quad Operational Amplifier CMOS, 25MHz Rail-Rail, 2.7  5.5 V, 14-Pin SOIC
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADA4891-1_4891-2_4891-3_4891-4.PDF
+$ENDCMP
+#
+$CMP LS_L29K-G1J2-1
+D Red 630nm LED Indication - Discrete 1.8V 0603 (1608 Metric)
+K
+F https://look.ams-osram.com/m/7ebaae268447acbc/original/LS-L29K.pdf
+$ENDCMP
+#
+$CMP TNPW1210100RFEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206470RFEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12101K00FEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12104K70BEEA
+D 4.7 kOhms +/-0.1% 0.5W, 1/2W Chip Resistor 1210 (3225 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thin Film
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW121010K0DEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP MCA1206ME4702BP100
+D Thin Film Resistors - SMD MCA 1206-15 0.1% AT P1 47K ,1.6 mm ,- 55 C ,200 V
+K
+F https://www.vishay.com/docs/28700/mcx0x0xpre.pdf
+$ENDCMP
+#
+$CMP LSG_T67K-JL-1+HK-1
+D Standard LEDs - SMD Red/Green
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2493614/LSG%20T67K.pdf
+$ENDCMP
+#
+$CMP LSY_T676-P2R1-1-0+Q2S1-35
+D Standard LEDs - SMD Red/Yel, 633/587nm 98/157mcd, 20mA
+K
+F https://www.mouser.com/datasheet/2/588/prd_pim_datasheet_2191421_EN_pdf-3419323.pdf
+$ENDCMP
+#
+$CMP LYG_T67K-JL-1+HK-1
+D Standard LEDs - SMD Yel/Green
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2493020/LYG%20T67K.pdf
+$ENDCMP
+#
+$CMP SFH_7018A
+D Mid-Power LEDs - Multi-Color RED, GREEN, INFRARED LED SMD
+K
+F https://look.ams-osram.com/m/25a835d5c1c9b935/original/SFH-7018A.pdf
+$ENDCMP
+#
+$CMP LTRBR37G-4R4S-0125-0
+D Standard LEDs - SMD LTRBR37G
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-24639129/LTRB%20R37G_EN.pdf
+$ENDCMP
+#
+$CMP LRTB_R48G
+D LED,Osram,LRTB R48G Osram Opto LRTB R48G, Multi CHIPLED Series 3 RGB LED, 476 / 538 / 627 nm 4-Pin, Square Lens SMD package
+K
+F https://www.mouser.dk/ProductDetail/ams-OSRAM/LRTB-R48G?qs=yIY1b2L8hUSPApphOSRroQ%3D%3D&_gl=1*1o4eajt*_ga*MTM4ODQzNDg5LjE3MTM1MTk5MTE.*_ga_15W4STQT4T*MTcxMzUxOTkxMS4xLjAuMTcxMzUxOTkxMS42MC4wLjA.
+$ENDCMP
+#
+$CMP LRTBR98G-R5T-1+S7T7-35+PQ-25
+D Standard LEDs - SMD Red Green Blue
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-4275556/LRTB%20R98G_EN.pdf
+$ENDCMP
+#
+$CMP SFH_4243-Q1R2
+D SFH 4243-Q1R2 Osram Opto, TOPLED 950nm IR LED, PLCC 2 SMD package package
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036889.pdf
+$ENDCMP
+#
+$CMP TNPW121010R0FEEA
+D Thin Film Resistors - SMD TNPW1210 10R 1% T-9 ET1 E3
+K
+F https://www.vishay.com/docs/28758/tnpw_e3.pdf
+$ENDCMP
+#
+$CMP TNPW1206100KBXEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206470KDEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12101M00DEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206120RFEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206220RFEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP EXV226M050S9HAA
+D 22 F 50 V Aluminum Electrolytic Capacitors Radial, Can - SMD 1.3Ohm @ 100kHz 3000 Hrs @ 105C
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EXV336M050S9MAA
+D 33 F 50 V Aluminum Electrolytic Capacitors Radial, Can - SMD 500mOhm @ 100kHz 5000 Hrs @ 105C
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EXV476M050S9PAA
+D Aluminium Electrolytic Capacitors - SMD 50V 47uF 20% AEC-Q200
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EXV686M050S9PAA
+D 68 F 50 V Aluminum Electrolytic Capacitors Radial, Can - SMD 340mOhm @ 100kHz 5000 Hrs @ 105C
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EXV107M050S9PAA
+D 100 F 50 V Aluminum Electrolytic Capacitors Radial, Can - SMD 340mOhm @ 100kHz 5000 Hrs @ 105C
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EXV337M050S9RAA
+D 330 F 50 V Aluminum Electrolytic Capacitors Radial, Can - SMD 1.2Ohm @ 100kHz 5000 Hrs @ 105C
+K
+F https://content.kemet.com/datasheets/KEM_A4003_EXV.pdf
+$ENDCMP
+#
+$CMP EDH477M063S9TAA
+D Aluminium Electrolytic Capacitors - SMD 63V 470uF 20% AEC-Q200
+K
+F https://content.kemet.com/datasheets/KEM_A4049_EDH.pdf
+$ENDCMP
+#
+$CMP TNPW1206330RFEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206510RBEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206560RFEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206680RFEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206820RBYEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP PHPA1206E1002BST1
+D High Power Thin Film Wraparound Chip Resistor AEC-Q200 Qualified
+K
+F https://www.vishay.com/docs/60160/phpa.pdf
+$ENDCMP
+#
+$CMP TNPW120633K0BYEN
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12065K60BEEA
+D Thin Film Resistors - SMD 5.6Kohms .1% 25ppm
+K
+F https://componentsearchengine.com/Datasheets/1/TNPW12065K60BEEA.pdf
+$ENDCMP
+#
+$CMP PCAN0805E1001FST3
+D Thin Film Resistors - SMD PCAN0805 25PPM 1K 1% S T3 e1
+K
+F https://www.vishay.com/docs/60125/pcan.pdf
+$ENDCMP
+#
+$CMP TNPW12101K20BYEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12102K20DEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12103K30BYEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW121012K0BEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW120622K0BYEN
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12065K10BXEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW12106K80BEEA
+D Res Thin Film 1210 6.8K Ohm 0.1% 0.33W(1/3W) +/-25ppm/C Sulfur Resistant Pad SMD Automotive Medical T/R
+K
+F https://www.vishay.com/docs/28758/tnpw_e3.pdf
+$ENDCMP
+#
+$CMP TNPW12068K20BEEA
+D 8.2 kOhms +/-0.1% 0.52W Chip Resistor 1206 (3216 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thin Film
+K
+F https://www.vishay.com/docs/28758/tnpw_e3.pdf
+$ENDCMP
+#
+$CMP TNPW120668K0BEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP P-2512Y1003DSTS
+D Commercial Thin Film Resistor, Surface-Mount Chip
+K
+F https://www.vishay.com/docs/60023/pns.pdf
+$ENDCMP
+#
+$CMP TNPW1206680KBEEA
+D 680 kOhms +/-0.1% 0.52W Chip Resistor 1206 (3216 Metric) Anti-Sulfur, Automotive AEC-Q200, Moisture Resistant Thin Film
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW120651K0DEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW120656K0BEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP PES228MKP3750QE4
+D Aluminium Electrolytic Capacitors - SMD 63V 750uF 30% HorztlCrown AEC-Q200
+K
+F https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/PES228MKP3750QE4.pdf
+$ENDCMP
+#
+$CMP PEV227HKL4320ME4
+D PEV227, Aluminum Electrolytic, 3,200 uF, 20%, 25 VDC, -40/+125C
+K
+F https://www.kemet.com/en/us/product/PEV227HKL4320ME4.html
+$ENDCMP
+#
+$CMP MAX4402AKA_V+T
+D Single/Dual/Quad, Low-Cost, Single-Supply, Rail-to-Rail Op Amps with Shutdown
+K
+F https://pdfserv.maximintegrated.com/en/ds/MAX4400-MAX4403.pdf
+$ENDCMP
+#
+$CMP B3SL-1022P
+D OMRON ELECTRONIC COMPONENTS - B3SL-1022P.. - SWITCH, SPST, 0.05A, 12VDC, SMD
+K
+F https://www.omron.com/ecb/products/pdf/en-b3sl.pdf
+$ENDCMP
+#
+$CMP SSSF021500
+D 8.5(H)mm, 2mm-travel Type Large-size general purpose Type
+K
+F https://componentsearchengine.com/Datasheets/1/SSSF021500.pdf
+$ENDCMP
+#
+$CMP 12401832E402A
+D USB3.2 GEN2, Type C, Top mount, CH 1.58mm, Dual Row SMT
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_type_c.pdf
+$ENDCMP
+#
+$CMP WJ128V-5.0-6P
+D 6 Position, P=5.0mm Screw terminal RoHS
+K
+F https://datasheet.lcsc.com/lcsc/1912251712_Ningbo-Kangnex-Elec-WJ128V-5-0-6P_C192771.pdf
+$ENDCMP
+#
+$CMP 3296W-1-203LF
+D 3296W top adj cermet trimmer,20K 10mm Bourns 3296W Series 25-Turn Through Hole Cermet Trimmer Resistor with Pin Terminations, 20k +/-10% 1/2W +/-100ppm/C
+K
+F http://www.bourns.com/docs/Product-Datasheets/3296.pdf
+$ENDCMP
+#
+$CMP DRV8871DDAR
+D 3.6A Brushed DC Motor Driver with Integrated Current Sensing (PWM Ctrl)
+K
+F http://www.ti.com/lit/gpn/drv8871
+$ENDCMP
+#
+$CMP RLB1014-104KL
+D Inductor Power Wirewound 100mH 10% 1KHz 30Q-Factor Ferrite 40mA 300Ohm DCR RDL Bag
+K
+F https://componentsearchengine.com/Datasheets/2/RLB1014-104KL.pdf
+$ENDCMP
+#
+$CMP RVT1H470M0607
+D Aluminum Electrolytic Capacitors - SMD 47uF +/-20% 50V SMD,6.3x7.7mm RoHS
+K
+F 
+$ENDCMP
+#
+$CMP XT30AW-M
+D Connector: DC supply; socket; XT30; male; PIN: 2; on PCBs; THT; 20A
+K
+F https://www.china-amass.com/biao/272.html?fbclid=IwZXh0bgNhZW0CMTEAAR1NvX_4aFpbUb2nO8NynRjoma90JrwdPu4OP5agqrddJY_N3HJJ-jDn6Lk_aem_mR-XhVJeUbZ7SJKgTTHkqQ
+$ENDCMP
+#
+$CMP XT30UPB-M
+D Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; Colour: yellow
+K
+F https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+$ENDCMP
+#
+$CMP AP63203WU-7
+D Switching Voltage Regulators DCDC Conv HV Buck TSOT26 T&R 3K
+K
+F https://www.diodes.com/assets/Datasheets/AP63200-AP63201-AP63203-AP63205.pdf
+$ENDCMP
+#
+$CMP NLV25T-3R9J-PF
+D TDK Type 1008 Wire-wound SMD Inductor 3.9 H +/-5% Wire-Wound 180mA Idc Q:30
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_nlv25-pf_en.pdf
+$ENDCMP
+#
+$CMP SMF3.3
+D ESD Suppressors / TVS Diodes 200W 3.3V 5% Uni-directional
+K
+F https://componentsearchengine.com/Datasheets/2/SMF3.3.pdf
+$ENDCMP
+#
+$CMP SS210-E3_52T
+D Schottky Diodes & Rectifiers 100 Volt 1.5 Amp 75 Amp IFSM
+K
+F https://www.vishay.com/docs/88749/ss29.pdf
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D TVS Diode Array Uni-Directional USBLC6-2SC6 17V, SOT-23 6-Pin
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00050750.pdf
+$ENDCMP
+#
+$CMP TNPW1206220KBEEA
+D  Rated dissipation P70 up to 0.52 W for size 1206  AEC-Q200 qualified  Single lot date code (optional)  Permissible film temperature up to 175 C  Superior temperature cycling robustness  Excellent overall stability at different environmental conditions  Superior moisture resistivity, |R/R| < 0.1 % (85 C; 85 % RH; 1000 h)  Superior sulfur resistance verified according to ASTM B 809 and ANSI/EIA-977  Material categorization: for definitions of compliance please see www.vishay.com/doc?
+K
+F https://www.vishay.com/docs/28758/tnpw_e3.pdf
+$ENDCMP
+#
+$CMP TNPW1206330KDEEA
+D  SnPb termination plating, Pb content > 6 %  AEC-Q200 qualified  Single lot date code available  Excellent overall stability at different environmental conditions  0.05 % (1000 h rated power at 70 C)  Low temperature coefficient and tight tolerances (+/- 0.1 %; +/- 10 ppm/K)  Material categorization: for definitions of compliance please see www.vishay.com/doc?99912
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206560KBEEA
+D Lead (Pb)-Bearing High Stability Thin Film Chip Resistors
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP MAX4105EUK+T
+D Operational Amplifiers - Op Amps 740MHz, Low-Noise, Low-Distortion Op Amp
+K
+F https://componentsearchengine.com/Datasheets/1/MAX4105EUK+T.pdf
+$ENDCMP
+#
+$CMP OP281GSZ
+D Operational Amplifiers - Op Amps DUAL 5uA RAIL TO RAIL OP AMP
+K
+F https://www.mouser.do/datasheet/2/609/OP281_OP481-1504347.pdf
+$ENDCMP
+#
+$CMP ESP32-S3-WROOM-1-N16
+D Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.4GHz PCB Trace Surface Mount
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+$ENDCMP
+#
+$CMP TNPW120682K0DEEA
+D  SnPb termination plating, Pb content > 6 %  AEC-Q200 qualified  Single lot date code available  Excellent overall stability at different environmental conditions  0.05 % (1000 h rated power at 70 C)  Low temperature coefficient and tight tolerances (+/- 0.1 %; +/- 10 ppm/K)  Material categorization: for definitions of compliance please see www.vishay.com/doc?99912
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206120KBXEN
+D  SnPb termination plating, Pb content > 6 %  AEC-Q200 qualified  Single lot date code available  Excellent overall stability at different environmental conditions  0.05 % (1000 h rated power at 70 C)  Low temperature coefficient and tight tolerances (+/- 0.1 %; +/- 10 ppm/K)  Material categorization: for definitions of compliance please see www.vishay.com/doc?99912
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP TNPW1206510KDEEA
+D  SnPb termination plating, Pb content > 6 %  AEC-Q200 qualified  Single lot date code available  Excellent overall stability at different environmental conditions  0.05 % (1000 h rated power at 70 C)  Low temperature coefficient and tight tolerances (+/- 0.1 %; +/- 10 ppm/K)  Material categorization: for definitions of compliance please see www.vishay.com/doc?99912
+K
+F https://www.vishay.com/docs/31006/tnpw.pdf
+$ENDCMP
+#
+$CMP MCA1206MD8203DP500
+D  IECQ-CECC approved to EN 140401-801  Low TCR: +/- 10 ppm/K to +/- 25 ppm/K  Precision tolerance of resistance: +/- 0.1 % and +/- 0.25 %  Superior overall stability: class 0.1 and 0.25  Sulfur resistance verified according to ASTM B 809  Material categorization: for definitions of compliance please see www.vishay.com/doc?99912
+K
+F https://www.vishay.com/docs/28700/mcx0x0xpre.pdf
+$ENDCMP
+#
+$CMP MAX40077AUA+T
+D Operational Amplifiers - Op Amps Dual Low-noise, low bias current op amp
+K
+F https://www.analog.com/MAX40089/datasheet?ADICID=SYND_WW_P682800_PF-spglobal
+$ENDCMP
+#
+$CMP ADA4891-3ARZ
+D Operational Amplifiers - Op Amps Lw Cst CMOS Hgh Spd RR Amp Triple
+K
+F https://www.mouser.do/datasheet/2/609/ADA4891_1_4891_2_4891_3_4891_4-2955774.pdf
+$ENDCMP
+#
+$CMP ESD9B3.3ST5G
+D SZ Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements ; AECQ101 Qualified and PPAP Capable ; This is a PbFree Device; Low Capacitance 15 pF; Low Clamping Voltage; Small Body Outline Dimensions: 0.039 x 0.024 (1.0mm x 0.60mm); Low Body Height: 0.016 (0.4 mm); Response Time is < 1 ns; IEC6100042 Level 4 ESD Protection; Low Leakage
+K
+F https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF
+$ENDCMP
+#
+$CMP OP496GSZ
+D Micropower RRIO Operational Amplifiers
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/op196_296_496.pdf
+$ENDCMP
+#
+$CMP OP481GSZ
+D Operational Amplifiers - Op Amps QUAD 5uA RAIL TO RAIL OP AMP
+K
+F https://www.mouser.do/datasheet/2/609/OP281_OP481-1504347.pdf
+$ENDCMP
+#
+$CMP KW_DELPS2.RA-QISI-FK2NM2-U515
+D White LED Indication - Discrete 2.75V 2-SMD, Flat Leads
+K
+F https://look.ams-osram.com/m/1a598afbdc91cdae/original/KW-DELPS2-RA-specified-at-2mA.pdf
+$ENDCMP
+#
+$CMP KB_DELPS2.DI-QGRI-2J8L-U515
+D LED Lighting Color TOPLED E1608 Blue 2-SMD, Flat Leads
+K
+F https://www.mouser.ph/ProductDetail/ams-OSRAM/KB-DELPS2.DI-QGRI-2J8L-U515?qs=CiayqK2gdcIIJ%252BvDPY6BNg%3D%3D
+$ENDCMP
+#
+$CMP EEUFC1H470
+D Aluminium Electrolytic Capacitor, Radial Lead, AEC-Q200, 105?C 50v,47uf
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf
+$ENDCMP
+#
+$CMP SFH_4249-UV
+D Infrared (IR) Emitter 950nm 1.5V 100mA 40mW/sr @ 100mA 50 4-PLCC
+K
+F https://www.digikey.ph/en/products/detail/ams-osram-usa-inc/SFH-4249-UV/7325555?msockid=39f1ec84d77b6f4428b7f904d6676eed
+$ENDCMP
+#
+$CMP V8ZA2P
+D Varistors 250A 7500pF
+K
+F http://uk.rs-online.com/web/p/products/1710012
+$ENDCMP
+#
+$CMP V12MLA0805LNHAUTO
+D Varistors 12V 410pF 0805 AEC-Q200 MLA AUTO
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/varistors/littelfuse_varistor_mla_automotive_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP V24AUMLA2220H
+D Varistors 24V 2220 125C AUML AEC-Q200 Low Profile
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=3b786b8d-c9c3-4cee-8ab5-ddf7d7967702&filename=littelfuse-varistor-auml-datasheet
+$ENDCMP
+#
+$CMP SP3031-01ETG
+D ESD Suppressors / TVS Diodes 5V 1uA 10kV UNIDIRECTIONAL
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3031_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP TPSMB12A-VR
+D ESD Suppressors / TVS Diodes 600W 12V AEC-Q101 5% Uni-Directional
+K
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_tpsmb_vr_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP3401-02UTG
+D ESD Suppressors / TVS Diodes 28KV 0.6pF 3.3V 10A uDFN-6 TVS Array
+K
+F https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3401_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SM12-02HTG
+D ESD Suppressors / TVS Diodes 400W 12V 2 Ch ESD Prot
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SM15-02HTG
+D 2Ch 30KV 15V TVS Diode Array SOT23-3
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sm_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP3420-04UTG
+D ESD Suppressors / TVS Diodes SP3420 3.3V 6A .32pF 12kV DFN2510-10L TVS Array
+K
+F https://componentsearchengine.com/Datasheets/1/SP3420-04UTG.pdf
+$ENDCMP
+#
+$CMP SP3019-04HTG
+D ESD Suppressors / TVS Diodes 0.3pF SOT23-6L 4 Ch Diode Array
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3019_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP4065-08ATG
+D LITTELFUSE - SP4065-08ATG - DIODE, ESD PROTECTION, 3.3V, MSOP
+K
+F https://componentsearchengine.com/Datasheets/2/SP4065-08ATG.pdf
+$ENDCMP
+#
+$CMP SC1533-01FTG
+D Bidirectional 3.3V, 15A, SOD323, General purpose ESD Protection
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=c77f8353-735b-4dc1-90b7-28d90562bef2&filename=littelfuse-tvs-diode-array-sc1533-01ftg-datasheet
+$ENDCMP
+#
+$CMP SP4337-01WTG
+D TVS Diode Arrays (SPA  Diodes) Revision: 03/17/21 Low Capacitance ESD Protection - SP4337
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=05af24f9-10ca-45b2-ba87-1809e744c005&filename=littelfuse-tvs-diode-array-sp4337-datasheet
+$ENDCMP
+#
+$CMP SESD0201X1BN-0010-098
+D LITTELFUSE - SESD0201X1BN-0010-098 - ESD SUPPRESSOR, 0.1PF, 1 CH
+K
+F https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sesd_ultra_low_capacitance_discrete_tvs_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP PGB2010201KR-15NR
+D Surface Mount Polymeric Electrostatic Discharge Suppressors
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=af80cf31-aea2-4497-80cb-23b4e0adc40a&filename=littelfuse-pulseguard-pgb2-0201-datasheet
+$ENDCMP
+#
+$CMP SP712-02HTG
+D ESD Suppressors / TVS Diodes SP712 12V 20A 30kV SOT23-3L
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp712_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP1015-04WTG
+D ESD Suppressors / TVS Diodes 5pF 20kV Bi
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp1015_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SP1012-05WTG
+D ESD Suppressors / TVS Diodes 6.5pF 15kV Bi
+K
+F https://www.littelfuse.com/media?resourcetype=datasheets&itemid=8965a573-7f64-4c5e-8a0e-04806e43c8d8&filename=littelfuse-tvs-diode-array-sp1012-datasheet
+$ENDCMP
+#
+$CMP V9MLA0603NH
+D Var MLV 6.5VAC/9VDC 30A 16V 0603 SMD T/R
+K
+F https://www.littelfuse.com/assetdocs/littelfuse_varistor_mla_datasheet.pdf?assetguid=7092c93f-7453-48dd-8345-d10368b54a20
+$ENDCMP
+#
+$CMP ADUM3160BRWZ
+D Analog Devices ADUM3160BRWZ PCB SMT Digital Isolator, 2500 V, 16-Pin SO16
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3160.pdf
+$ENDCMP
+#
+$CMP ADUM5000ARWZ
+D Switching Voltage Regulators 2.5kV DC/DC Cnvtr IC
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM5000.pdf
+$ENDCMP
+#
+$CMP NUP2202W1T2G
+D Low Capacitance (3 pF Maximum Between I/O Lines); ESD Rating of Class 3B (Exceeding 8 kV) per Human Body Model and Class C (Exceeding 400 V) per Machine Model; Protection for the Following IEC Standards:IEC 6100042 (ESD) 15 kV (air) 8 kV (contact)IEC 6100044 (EFT) 40 A (5/50 ns)IEC 6100045 (Lightning) 23 A (8/20 s); UL Flammability Rating of 94 V-0; This is a Pb-Free Device
+K
+F https://www.onsemi.com/pub/Collateral/NUP2202W1-D.PDF
+$ENDCMP
+#
+$CMP GRM21BR71H104KA01L
+D Ceramic Capacitors MLCC 0805 100nF 50V Murata 0805 GRM 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ??10% SMD
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71H104KA01-01.pdf
+$ENDCMP
+#
+$CMP GRM21BR61C106KE15L
+D Ceramic  SMT capacitor 10uF 16Vdc Murata 0805 GRM 10uF Ceramic Multilayer Capacitor, 16 V dc, +85C, X5R Dielectric, +/-10% SMD
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61C106KE15-01A.pdf
+$ENDCMP
+#
+$CMP 87520-0010BLF
+D USB 2.0, Input Output Connector, USB Type A, Standard, Right Angle, Through Hole, Single Decks, 4 Positions
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/87520.pdf
+$ENDCMP
+#
+$CMP USB-B-S-F-B-TH-R
+D USB TYPE B 2.0 BLACK T/H
+K
+F http://suddendocs.samtec.com/prints/usb-b-s-x-x-th-x-xx-mkt.pdf
+$ENDCMP
+#
+$CMP 22-03-2031
+D 3 way straight PCB header,2.54mm pitch Molex KK 254 Series, Series Number 4030, 2.54mm Pitch 3 Way 1 Row Straight PCB Header, Solder Termination, 4A
+K
+F http://www.molex.com/pdm_docs/sd/022032031_sd.pdf
+$ENDCMP
+#
+$CMP ERJ-6GEY0R00V
+D RESISTOR, 0805 0 Ohm +/-5% 0.125 W
+K
+F http://componentsearchengine.com/Datasheets/1/ERJ-6GEY0R00V.pdf
+$ENDCMP
+#
+$CMP ERJ-6ENF1002V
+D Thick Film Resistors - SMD 0805 10Kohms 1% AEC-Q200
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C84.pdf
+$ENDCMP
+#
+$CMP SMF4L9.0A
+D 15.4V Clamp 24.1A Ipp Tvs Diode Surface Mount SOD-123F ,10V ,15.4V ,400W ,-55C ~ 150C (TJ)
+K
+F https://www.littelfuse.com/assetdocs/tvs-diodes-smf4l-datasheet?assetguid=d2ba8fab-1de3-4176-8530-f36ecb0b8799
+$ENDCMP
+#
+$CMP SACB10
+D ESD Protection Diodes / TVS Diodes TVS 500W 10V
+K
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_sacb_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP V20E385P
+D 620 V 10 kA Varistor 1 Circuit Through Hole Disc 20mm
+K
+F https://www.littelfuse.com/assetdocs/littelfuse_varistor_ultramov_datasheet.pdf?assetguid=00498970-451b-4e23-a419-f1ff8625d2a0
+$ENDCMP
+#
+$CMP RT0805FRE0724RL
+D Thin Film Resistors - SMD 24    OHM   1%  50PPM   1/8W
+K
+F https://www.mouser.do/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdfhttps://www.mouser.do/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf
+$ENDCMP
+#
+$CMP SP4338-02WTG
+D 5V, 0.18pF, 15kV, 2CH-Bidirectional TVS, Ultra Low Capacitance ESD protection
+K
+F https://g.componentsearchengine.com/Datasheets/0/17446101.pdf
+$ENDCMP
+#
+$CMP TPSMB12CA-VR
+D ESD Protection Diodes / TVS Diodes 600W 12V AEC-Q101 5% Bi-Directional
+K
+F https://www.littelfuse.com/assetdocs/tvs-diode-tpsmb-vr-datasheet?assetguid=59F7438C-3AD2-4783-8B9D-0EE7E189EF9B
+$ENDCMP
+#
+$CMP SMA6J24A
+D TVS Diode Single Uni-Dir 24V 600W 2-Pin SMA T/R
+K
+F https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_sma6j_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP AQ15-02HTG
+D ESD Protection Diodes / TVS Diodes 2Ch 30KV 15V
+K
+F https://www.littelfuse.com/assetdocs/littelfuse-tvs-diode-arrays-aqxx-02htg-datasheet?assetguid=EBEEF133-8FAC-41EF-A256-230BB129E617
+$ENDCMP
+#
+$CMP SM05-02HTG
+D Dual Bi-Directional TVS Diode Array, 400W, 3-Pin SOT-23
+K
+F https://www.littelfuse.com/products/overvoltage-protection/tvs-diode-arrays/general-purpose/sm/sm05-02htg
+$ENDCMP
+#
+#End Doc Library

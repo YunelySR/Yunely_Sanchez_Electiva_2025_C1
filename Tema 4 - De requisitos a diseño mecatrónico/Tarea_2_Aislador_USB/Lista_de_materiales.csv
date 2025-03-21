@@ -1,0 +1,13 @@
+Reference;Qty;Value;Footprint;Datasheet;LCSC;Manufacturer_Part_Number
+C1,C8;2;GRM21BR61C106KE15L;SamacSys_Parts:CAPC2012X145N;https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61C106KE15-01A.pdf;;GRM21BR61C106KE15L
+C2,C3,C4,C5,C6,C7,C9;7;GRM21BR71H104KA01L;SamacSys_Parts:CAPC2012X145N;https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71H104KA01-01.pdf;;GRM21BR71H104KA01L
+D1;1;Green;PCM_JLCPCB:D_0603;https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2207051802_Everlight-Elec-19-217-GHC-YR1S2-6T_C2986059.pdf;C2986059;
+IC1,IC4;2;NUP2202W1T2G;SamacSys_Parts:SOT65P210X110-6N;https://www.onsemi.com/pub/Collateral/NUP2202W1-D.PDF;;NUP2202W1T2G
+IC2;1;ADUM5000ARWZ;SamacSys_Parts:SOIC127P1032X265-16N;https://www.analog.com/media/en/technical-documentation/data-sheets/ADuM5000.pdf;;ADUM5000ARWZ
+IC3;1;ADUM3160BRWZ;SamacSys_Parts:SOIC127P1032X265-16N;http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM3160.pdf;;ADUM3160BRWZ
+J1;1;87520-0010BLF;SamacSys_Parts:875200010BLF;https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/87520.pdf;;87520-0010BLF
+J2;1;USB-B-S-F-B-TH-R;SamacSys_Parts:USBBSFBTHR;http://suddendocs.samtec.com/prints/usb-b-s-x-x-th-x-xx-mkt.pdf;;USB-B-S-F-B-TH-R
+R1,R2,R8,R9;4;ERJ-6GEY0R00V;SamacSys_Parts:RESC2012X70N;http://componentsearchengine.com/Datasheets/1/ERJ-6GEY0R00V.pdf;;ERJ-6GEY0R00V
+R3,R4,R6,R7;4;RT0805FRE0724RL;SamacSys_Parts:RESC2012X60N;https://www.mouser.do/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdfhttps://www.mouser.do/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf;;RT0805FRE0724RL
+R5;1;ERJ-6ENF1002V;SamacSys_Parts:ERJ6ENF1000V;https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C84.pdf;;ERJ-6ENF1002V
+R10;1;100ï¿;PCM_JLCPCB:R_0603;https://www.lcsc.com/datasheet/lcsc_datasheet_2411221126_UNI-ROYAL-Uniroyal-Elec-0603WAF1000T5E_C22775.pdf;C22775;
